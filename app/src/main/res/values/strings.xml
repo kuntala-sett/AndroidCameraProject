@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Click!</string>
+    <string name="upload">Upload</string>
+    <string name="click_now">Click Now!</string>
+    <string name="display_text">Which picture do you fancy today?</string>
+
+</resources>
